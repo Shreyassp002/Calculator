@@ -8,6 +8,9 @@ import android.widget.TextView
 import android.widget.Toast
 import java.lang.ArithmeticException
 
+//This is a good app 
+//I am teaching you how to make a PR 
+
 
 class MainActivity : AppCompatActivity() {
 
